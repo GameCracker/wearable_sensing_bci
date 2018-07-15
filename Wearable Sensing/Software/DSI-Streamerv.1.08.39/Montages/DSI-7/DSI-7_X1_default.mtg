@@ -1,0 +1,39 @@
+Headset index: ,1,
+Number of plots:  ,7,
+List of Plot colors [RBG]
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+BKGND color [RBG]
+255, 255, 255, 
+Tracer color [RBG]
+128, 128, 128, 
+Grid color [RBG]
+192, 192, 192, 
+Trigger color [RBG]
+0, 0, 255, 
+Reserved color [RBG]
+0, 0, 255, 
+Reference position:
+Pz
+Montage positions:
+F3,X1,
+F4,X1,
+C3,X1,
+C4,X1,
+Pz,X1,
+P3,X1,
+P4,X1,
+Scale:
+100
+100
+100
+100
+100
+100
+100
